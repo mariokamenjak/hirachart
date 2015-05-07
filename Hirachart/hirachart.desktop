@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=hirachart
+Exec=qmlscene $@ Main.qml
+Icon=Hirachart.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

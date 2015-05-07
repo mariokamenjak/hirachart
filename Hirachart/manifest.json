@@ -1,0 +1,15 @@
+{
+    "name": "com.ubuntu.developer.mkamenjak77.hirachart",
+    "description": "description of Hirachart",
+    "architecture": "all",
+    "title": "Hirachart",
+    "hooks": {
+        "hirachart": {
+            "apparmor": "hirachart.apparmor",
+            "desktop": "hirachart.desktop"
+        }
+    },
+    "version": "0.57",
+    "maintainer": "Mario Kamenjak <mkamenjak77@gmail.com>",
+    "framework": "ubuntu-sdk-14.10"
+}
