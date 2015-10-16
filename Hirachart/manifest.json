@@ -9,7 +9,7 @@
             "desktop": "hirachart.desktop"
         }
     },
-    "version": "0.57",
+    "version": "0.77",
     "maintainer": "Mario Kamenjak <mkamenjak77@gmail.com>",
-    "framework": "ubuntu-sdk-14.10"
+    "framework": "ubuntu-sdk-15.04"
 }
